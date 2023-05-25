@@ -1,0 +1,15 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "We work with organizations in"
+  items:
+    - "images/nigeria.png"
+    - "images/kenya.png"
+    - "images/usa.png"
+    - "images/india.png"
+    - "images/zimbabwe.png"
+    - "images/zambia.png"
+    - "images/south-africa.png"
+    - "images/drc.png"
+    - "images/ghana.png"

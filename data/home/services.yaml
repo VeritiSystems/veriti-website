@@ -1,0 +1,47 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our main services"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  cards:
+    - image: "images/services-web-development.pn"
+      title: "Election Management System"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.pn"
+      title: "Election Night Reporting"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.pn"
+      title: "Secure Electronic Results Transmission"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.pn"
+      title: "Voters Roll Audit"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/fraud-detection.jpe"
+      title: "AI Voting Fraud Detection"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+    - image: "images/services-web-development.pn"
+      title: "Voter Registration Verification"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"

@@ -1,0 +1,66 @@
+baseURL: "https://www.veriti-systems.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Veriti Systems"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Veriti Systems"
+  description: "We specialize in running smooth elections and safeguarding democracies."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  location:
+    - "Boston, Massachusetts 02215"
+   
+  contact:
+    - "sales@veriti-systems.com"
+    - "978.707.9868"
+
+  copyright: "© 2023 Veriti Systems All Rights Reserved"
+
+  postProcess: false
+
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    # - name: "Services"
+    #   url: "/services"
+    #   weight: 2
+
+  buttons:
+    - name: "Contact Us"
+      url: "/contacts"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "Services"
+      url: "/services"
+      weight: 2
+
+    - name: "Privacy Policy"
+      url: "/privacy-policy"
+      weight: 3
+
+taxonomies:
+  series: "series"
+  tags: "tags"
