@@ -14,7 +14,7 @@ params:
   images: 
     - "images/hero-image.png"
 
-  logo: "arrow-up.png"
+  #logo: "arrow-up.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -42,11 +42,11 @@ menus:
     #   url: "/services"
     #   weight: 2
 
-  buttons:
-    - name: "Contact Us"
-      url: "/contacts"
-      weight: 5
-      pre: "btn btn-primary text-light"
+  # buttons:
+  #   - name: "Contact Us"
+  #     url: "/contacts"
+  #     weight: 5
+  #     pre: "btn btn-primary text-light"
 
   footer:
     - name: "Home"

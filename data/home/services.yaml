@@ -3,45 +3,23 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: "Fullproof, End-to-End Democracy Suite."
   cards:
     - image: "images/services-web-development.pn"
       title: "Election Management System"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
-
+      text: "We offer an end-to-end democracy suite for efficiently running a modern election"
     - image: "images/services-web-development.pn"
       title: "Election Night Reporting"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
-
+      text: "Provide election night voting results collation, and reporting"
     - image: "images/services-web-development.pn"
       title: "Secure Electronic Results Transmission"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
-
+      text: "Through V-Tally mobile app, we offer end to end secure polling statiion results transmission from polling stations"
     - image: "images/services-web-development.pn"
       title: "Voters Roll Audit"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
-
+      text: "Provide end to end Voters Roll"
     - image: "images/fraud-detection.jpe"
       title: "AI Voting Fraud Detection"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+      text: "Provide post voting electoral fraud analysis"
     - image: "images/services-web-development.pn"
       title: "Voter Registration Verification"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+      text: "Offer online voter registration and verification platform"
